@@ -199,6 +199,13 @@ footer {
      width:95%;
 
    }
+   .hak {
+
+    width: 95%;
+   }
+  .agenda {
+     width: 95%;
+  }
 
   @media (max-width: 991.98px) {
         .offcanvas-collapse {
